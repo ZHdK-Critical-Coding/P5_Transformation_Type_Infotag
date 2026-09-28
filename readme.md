@@ -12,14 +12,16 @@ starting point for type animation.
 
 Requirements: a current browser.
 
+Libraries (in `libraries/`): p5.js 1.10.0, p5.sound 1.0.1 (included, not
+used).
+
+## How to Run
+
 1. Open the folder in Visual Studio Code and start Live Server (click
    **Go Live** in the status bar).
 2. Enter a text and press **UPDATE**.
 3. Adjust **Speed** and **Interval**.
 4. Press **EXPORT one Iteration as GIF** to download the animation.
-
-Libraries (in `libraries/`): p5.js 1.10.0, p5.sound 1.0.1 (included, not
-used).
 
 ## Coding Help
 
